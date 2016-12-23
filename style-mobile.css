@@ -1,0 +1,96 @@
+body { 
+	font-size : 'Arial';
+	font-size:0.85em;
+	margin-left : 5px;
+	margin-top : 0%;
+	background: #ffffff; 
+
+}
+
+img{
+	display: none;
+}
+
+
+
+.experience{
+	display:none;
+}
+
+p{
+	margin-top : 0px;
+	text-indent:0px;
+}
+
+a	{
+	color : #3666DF;
+	text-decoration : none;
+}
+
+h1	{	
+	position : relatif;	
+	color: #74B5F7;
+	font-size: 18px;
+	text-align: left;
+	font-family: verdana; 
+	font-weight: lighter;
+	}
+	
+h2	{	
+	position : relatif;
+	font-variant: uppercase; /*texte en majuscule*/
+	color: black;
+	font-size: 18px;
+	text-decoration: underline; /*souligner*/
+	text-align: left;
+	font-family: verdana; 
+	padding-left: 5%;
+	font-weight: lighter;
+	}
+
+h3	{
+	position : relatif;
+	top : 2px;
+	font-variant: uppercase; /*texte en majuscule*/
+	color: black;
+	font-size: 15px;
+	text-decoration: underline; /*souligner*/
+	text-align: left;
+	font-family: verdana;
+	font-weight: bolder ;
+	font-style: bolder;
+	z-index: 2;
+	
+	}
+
+h4	{
+	position : relatif;
+	font-variant: uppercase; /*texte en majuscule*/
+	color: black;
+	font-size: 15px;
+	text-decoration: underline; /*souligner*/
+	text-align: left;
+	font-family: verdana; 
+	font-weight: lighter;
+	}
+table{
+	display: block;
+}
+div {
+	border-top: 2px solid #74B5F7;
+	display: block;
+}
+#print{
+	display: inline-block;
+	position : relative;
+	width:30%;
+	left:10%;
+	
+}
+#pdf{
+	display: inline-block;
+	position : relative;
+	width:30%;
+	left:40%;
+	
+}
