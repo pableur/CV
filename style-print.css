@@ -73,22 +73,24 @@ div {
 
 table{
 	display: inline-block;
+	margin-bottom:5%;
 }
 
 
-.bloc_pair{
+.bloc{
 	border: 1px solid #74B5F7;
 	border-radius: 10px;
 	margin-bottom: 10px;
 	background: #ffffff;
     /*background-image: radial-gradient(circle at top left, white, #D4F9FF);*/
 	vertical-align : top;
-	display: inline-block;
+	display: block;
 }
 
 #titre{
 	padding : 5px;
-	margin : 2%;	
+	margin : 2%;
+	margin-left : 10%;	
 	border-radius: 10px;
 	display: inline-block;
 	vertical-align: top;
@@ -97,10 +99,7 @@ table{
 	background: #ffffff;
 }
 
-#print{
-	display: none;
-}
-#pdf{
+#print,#pdf,#flag{
 	display: none;
 }
 
