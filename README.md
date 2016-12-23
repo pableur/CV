@@ -1,4 +1,4 @@
 # CV
-[CV versions francaise](https://pableur.github.io/CV/cv_francais.html)
+[CV version francaise](https://pableur.github.io/CV/cv_francais.html)
 
-[CV versions anglaise](https://pableur.github.io/CV/cv_english.html)
+[CV english version](https://pableur.github.io/CV/cv_english.html)
